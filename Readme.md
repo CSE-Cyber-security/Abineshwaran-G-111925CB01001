@@ -63,7 +63,7 @@ text
 SimpleCalculator/
 ├── calculator.py
 └── README.md
-
+|__outputs
 License
 
 This project is free to use, modify, and distribute for educational and personal purposes.
